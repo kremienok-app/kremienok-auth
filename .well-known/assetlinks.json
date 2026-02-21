@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.jasle_kremienok_app",
+      "sha256_cert_fingerprints": [
+        "32:C2:9F:F5:55:F2:63:96:13:37:75:14:DC:D2:7B:36:29:53:18:BB:3F:D5:1A:05:5E:B6:E0:07:70:77:F1:AB"
+      ]
+    }
+  }
+]
